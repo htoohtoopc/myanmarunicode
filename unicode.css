@@ -1,8 +1,8 @@
 @font-face {
-font-family:'Myanmar Angoun';
-src: url('https://github.com/htoohtoopc/myanmarunicode/blob/main/MyanmarAngoun.woff') format('woff'), url('https://github.com/htoohtoopc/myanmarunicode/blob/main/MyanmarAngoun.ttf') format('ttf');
+font-family:'MON3 Anonta 1';
+src: url('https://github.com/htoohtoopc/myanmarunicode/blob/main/mon3.woff') format('woff'), url('https://github.com/htoohtoopc/myanmarunicode/blob/main/mon3.ttf') format('ttf');
 }
 html *
 {    
-   font-family: Myanmar Angoun !important;
+   font-family: MON3 Anonta 1 !important;
 }
