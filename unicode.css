@@ -1,0 +1,8 @@
+@font-face {
+font-family:'Unicode';
+src: url('https://github.com/htoohtoopc/myanmarunicode/blob/main/MyanmarAngoun.woff') format('woff'), url('https://github.com/htoohtoopc/myanmarunicode/blob/main/MyanmarAngoun.ttf') format('ttf');
+}
+html *
+{    
+   font-family: Unicode !important;
+}
